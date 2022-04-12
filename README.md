@@ -1,6 +1,6 @@
  Hi there👋 name is Victor you can also call me Sylar
 
--👨‍💻 I'm a frontend developer aspiring to move to machine learning and AI
+-👨‍💻 I'm a frontend developer aspiring to also go into machine learning and AI
 - 🔭 I’m currently working on different projects. 
 - 🌱 I’m currently mastering JavaScript and just started learning python. 
 - 👯 I’m looking to collaborate on different projects
