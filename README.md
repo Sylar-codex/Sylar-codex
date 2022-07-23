@@ -5,6 +5,7 @@
 - 🌱 I’m currently mastering JavaScript and python
 - 👯 I’m looking to collaborate on different projects
 - 💬 Ask me about anything 
+- 🤖 Machine learning and AI ethusiast
 - 📫 How to reach me: my email @ vicaremy@gmail.com
 - ⚡ Fun fact:I love coding and challenging myself to new things. I love learning and also contributing to the community best way I can.
 
