@@ -1,6 +1,6 @@
  Hi there👋 name is Victor you can also call me Sylar
 
--👨‍💻 I'm a frontend developer 
+-👨‍💻 I'm a software developer 
 - 🔭 I’m currently working on different projects. 
 - 🌱 I’m currently mastering JavaScript and python
 - 👯 I’m looking to collaborate on different projects
