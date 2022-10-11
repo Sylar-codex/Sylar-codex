@@ -44,6 +44,4 @@
 ## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylar-codex&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-   <p>Contact me at</p>
-   <a href="mailto:vicaremy@gmail.com">My Email<\a>
    
